@@ -1,3 +1,6 @@
+> Alantec - Calibrated Mind: Anticipation Engineering applied to versioning.
+> Alantec - Architects of the Future.
+
 # Full Stack FastAPI Template
 
 <a href="https://github.com/fastapi/full-stack-fastapi-template/actions?query=workflow%3A%22Test+Docker+Compose%22" target="_blank"><img src="https://github.com/fastapi/full-stack-fastapi-template/workflows/Test%20Docker%20Compose/badge.svg" alt="Test Docker Compose"></a>
